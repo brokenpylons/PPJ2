@@ -1,1 +1,4 @@
-(1.10219 + 517549 * 117549 + faish * 407549 ) + g2 - fisc3 
+for AORChtota :=1 to faCv * iOeghle do
+    
+WRITE iekiite
+ done

@@ -1,1 +1,3 @@
- a * aasgh * (Her ^ 1.04009) 
+ HAeCh:=00;
+  WRITE fae * 00
+   

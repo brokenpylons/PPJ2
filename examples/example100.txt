@@ -1,1 +1,6 @@
- ( 3 / R1) * ( ( BRU + (1) * 4.03159 * Roice ) / geis * ( f2 * ( 2) * 3 )) + (( RoEc * ( 40.6 )) ) 
+ for sae:=10 - 00 to 10 do
+M := faeih * 00 * faivit
+ done;
+  itdgite := MARgEte;
+      FAdtltota :=10 + Ftk
+ 
