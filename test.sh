@@ -9,7 +9,7 @@ declare -r path=$(dirname $(realpath "$0"))
 
 declare -i err=0
 
-for file in "$path"/examples/example{3..100}.txt
+for file in "$path"/examples/example{0..1000..10}.txt
 do
     echo "$file"
     cat "$file"
